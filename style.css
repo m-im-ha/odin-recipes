@@ -1,0 +1,16 @@
+h1,
+ul {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-top: 20px;
+}
+
+li a {
+  text-decoration: none;
+}
